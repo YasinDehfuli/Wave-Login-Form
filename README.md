@@ -16,9 +16,7 @@ This is a Bootstrap 5 Login Page template, you can use it as you wish and it's f
 Let's make it easy! Just download this template, use it on your project.
 
 # Demo
-- [Login](https://YasinDehfuli.github.io/Login-Page/index.html)
-- [Register](https://YasinDehfuli.github.io/Login-Page/Register.html)
-- [Forgot Password](https://YasinDehfuli.github.io/Login-Page/Forget.html)
+- [Login](https://YasinDehfuli.github.io/Wave-Login-Form/index.html)
 
 
 # Features
@@ -33,7 +31,7 @@ Let's make it easy! Just download this template, use it on your project.
 - and more ...
 
 # Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/YasinDehfuli/Login-Page/issues) and we'll fix it together for a better template.
+Find a Bug? Please, [create an issue](https://github.com/YasinDehfuli/Wave-Login-Form/issues) and we'll fix it together for a better template.
 
 # Contribution
 Contribution are always welcome and recommended! Here is how:

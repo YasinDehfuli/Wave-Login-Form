@@ -1,0 +1,29 @@
+{
+  "name": "wave-login-form",
+  "version": "1.0.0",
+  "description": "[![GitHub license](https://img.shields.io/github/license/YasinDehfuli/Login-Page)](https://github.com/YasinDehfuli/Login-Page/blob/master/LICENSE) ![Author](https://img.shields.io/badge/author-YasinDehfuli-blue.svg) [![Twitter](https://img.shields.io/twitter/url/https/github.com/YasinDehfuli/Login-Page/.svg?style=social)](https://twitter.com/YasinDehfuli)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/Wave-Login-Form.git"
+  },
+  "keywords": [
+    "LoginForm",
+    "Log-in",
+    "Wave",
+    "Animational"
+  ],
+  "author": "Nisay",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/Wave-Login-Form/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/Wave-Login-Form#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "bootstrap": "^5.2.3"
+  }
+}
